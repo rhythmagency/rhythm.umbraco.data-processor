@@ -17,7 +17,7 @@
     /// </summary>
     /// <remarks>
     /// Node - Renders a multi-node tree picker. A user must pick exactly one node.
-    /// Nodes - Renders a multi-nod tree picker. A user must pick at least one node.
+    /// Nodes - Renders a multi-node tree picker. A user must pick at least one node.
     /// </remarks>
     public class ProcessorKinds
     {
